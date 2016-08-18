@@ -11,6 +11,8 @@ Michael Leung
 mcleung@stanford.edu
 """
 
+from __future__ import print_function
+
 # Import APTMotor class from PyAPT
 from PyAPT import APTMotor
 import time

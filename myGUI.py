@@ -14,6 +14,7 @@ version='1.0'
 #Date: April 17, 2015
 #Python Version 2.7.9
 
+from __future__ import print_function
 
 import os
 import platform
